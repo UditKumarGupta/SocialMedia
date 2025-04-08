@@ -17,14 +17,13 @@ Extent report for report generation.
 Clone the repository:
 
  
-4.Download the appropriate WebDriver for the browser you intend to test (e.g., ChromeDriver for Google Chrome) copy them in folder path path	/Flurn_Login/src/test/resources/driver
+4.Download the appropriate WebDriver for the browser you intend to test (e.g., ChromeDriver for Google Chrome) copy them in folder path path	/SocialMedia/src/test/resources/driver
  
 5.Place the WebDriver executable in a location included in your system's PATH or specify the path in the script.
 
 6.How to Run the Script
    Open your IDE and load the project.
-   Navigate to the script located at path	/Flurn_Login/src/test/java/testing/Flurn_HomepageLogin.java.
-   Make sure the correct credentials and the URL of the website are defined in the script.
-   Run the test script using your IDE or by executing the following Maven command:
+   Navigate to testNg Xml file to run it.
  
 7.The test script performs the test execution
+8.Report is generated in the end.
