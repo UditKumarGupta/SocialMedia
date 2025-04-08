@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T17:15:31 IST" name="Default suite" finished-at="2025-04-08T17:15:45 IST" duration-ms="14515">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T17:15:31 IST" name="Default test" finished-at="2025-04-08T17:15:45 IST" duration-ms="14515">
+      <class name="TestCases.Googlelogin">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:TestCases.Googlelogin@2f217633]" started-at="2025-04-08T17:15:31 IST" name="BeforeTest" finished-at="2025-04-08T17:15:32 IST" duration-ms="1590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Login()[pri:0, instance:TestCases.Googlelogin@2f217633]" started-at="2025-04-08T17:15:32 IST" name="Login" finished-at="2025-04-08T17:15:37 IST" duration-ms="4960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="search()[pri:0, instance:TestCases.Googlelogin@2f217633]" started-at="2025-04-08T17:15:37 IST" name="search" finished-at="2025-04-08T17:15:44 IST" duration-ms="6275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.Googlelogin@2f217633]" started-at="2025-04-08T17:15:44 IST" name="closeBrowser" finished-at="2025-04-08T17:15:45 IST" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.Googlelogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
